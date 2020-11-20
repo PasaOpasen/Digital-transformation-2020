@@ -9,3 +9,5 @@
 **Презентация** (с анимациями): https://docs.google.com/presentation/d/1AoFyVj-PTFlH4Q3TwDdQ9OFgmBLLOLhQ796HyTvKToY/edit?usp=sharing
 
 **Файл с предсказаниями**: https://github.com/PasaOpasen/Digital-transformation-2020/blob/main/AK_output.csv
+
+![1](https://github.com/PasaOpasen/Digital-transformation-2020/blob/main/st.PNG)
